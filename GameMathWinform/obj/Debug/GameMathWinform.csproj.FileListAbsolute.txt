@@ -1,0 +1,14 @@
+C:\Asp.net\GameMathWinform\bin\Debug\GameMathWinform.exe
+C:\Asp.net\GameMathWinform\bin\Debug\GameMathWinform.exe.config
+C:\Asp.net\GameMathWinform\bin\Debug\Newtonsoft.Json.dll
+C:\Asp.net\GameMathWinform\bin\Debug\Newtonsoft.Json.xml
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.csproj.AssemblyReference.cache
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.Form1.resources
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.Forms.HighScore.resources
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.Properties.Resources.resources
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.csproj.GenerateResource.cache
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.csproj.CoreCompileInputs.cache
+C:\Asp.net\GameMathWinform\obj\Debug\GameMath.1F6B1FEC.Up2Date
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.exe
+C:\Asp.net\GameMathWinform\obj\Debug\GameMathWinform.pdb
+C:\Asp.net\GameMathWinform\bin\Debug\GameMathWinform.pdb
